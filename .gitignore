@@ -26,6 +26,7 @@ venv_python/
 env/
 ENV/
 .venv/
+virtualenv.ps1
 
 # Environment Variables
 .env

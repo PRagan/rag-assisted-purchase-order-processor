@@ -1,0 +1,42 @@
+# Core Dependencies
+python-dotenv
+requests
+
+# PDF Processing
+pymupdf
+easyocr
+Pillow
+
+# LangChain Framework
+langchain
+langchain-core
+langchain-openai
+langchain-text-splitters
+langchain-pinecone
+langchain-community
+
+# Vector Database
+# pinecone-client
+pinecone
+
+# OpenAI
+openai
+
+# Text Processing
+tiktoken
+
+# Utilities
+pathlib2
+uuid==1.30
+
+# Optional: For enhanced functionality
+numpy
+pandas
+
+# Development and Testing (optional)
+pytest
+black
+flake8
+
+# Logging and Monitoring (optional)
+tqdm
